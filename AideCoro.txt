@@ -1,0 +1,18 @@
+Header
+-> Menu                           99112387 AIDE CORO MENDO
+Footer
+-> Content                        Carla Fernandez
+
+-> Inicio                         Nataly Sanchez Bohorquez
+-> Questionarios
+     -> Estructuras               Limber Ruiz
+     -> Programacion              Clever Bravo
+     -> Base de datos             Wilfredo Terrazas
+     -> .....
+
+-> Videos
+     -> Estructuras               Limber Ruiz
+     -> Programacion              Osmar MJ
+     -> Base de datos             6583529 Jonmircha
+     -> .....
+-> Contactenos                    DAC Alex Choque
